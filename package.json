@@ -1,0 +1,21 @@
+{
+  "name": "devtoken",
+  "version": "1.0.0",
+  "description": "A simple ERC20 token contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "chai": "^5.1.1",
+    "ethereum-waffle": "^4.0.10",
+    "hardhat": "^2.22.13"
+  }
+}
